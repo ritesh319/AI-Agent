@@ -49,7 +49,10 @@ Session data is saved in the sessions/ folder as JSON files named after the user
 📌 Credits
 Built by Ritesh with ❤️ using:
 
-Groq API
-LLaMA3
-pdfkit
-markdown2
+🚀 Groq API — for ultra-fast LLM inference
+
+🧠 LLaMA3 — the model powering study plan generation
+
+📝 markdown2 — for converting Markdown to HTML
+
+📄 pdfkit — for exporting clean PDF study plans
