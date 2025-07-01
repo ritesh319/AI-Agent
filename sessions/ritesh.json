@@ -1,0 +1,13 @@
+{
+  "user_id": "ritesh",
+  "subject": "math",
+  "topics": [
+    "calculus",
+    "probability"
+  ],
+  "days": 5,
+  "focus": [
+    "calculus",
+    "probability"
+  ]
+}

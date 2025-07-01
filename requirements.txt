@@ -1,0 +1,4 @@
+groq
+python-dotenv
+markdown2
+pdfkit
